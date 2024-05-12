@@ -31,7 +31,7 @@
 > - 2023.10.19 ~
 
 > #### 오직 IQ 510 이상의 사람만이 이 전메를 찾을 수 있습니다
-> 추가 예정
+> [![onlyiq510](onlyiq510_logo.png)](https://www.youtube.com/watch?v=5X6NntRCq8E&t=11976s)
 > - Unity 2022.3.17f1
 > - 2024.03.20 ~ 2024.05.10
 
