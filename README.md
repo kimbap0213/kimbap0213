@@ -26,7 +26,7 @@
 > - 2023.01.23 ~ 2023.12.26
 
 > #### 너와 나의 차가리 해피니스
-> 추가 예정
+> [![youmechagari](youmechagari_logo.png)](https://www.youtube.com/watch?v=PZXerf-v5AU)
 > - Unity 2022.3.4f1
 > - 2023.10.19 ~ 2024.05.13
 
