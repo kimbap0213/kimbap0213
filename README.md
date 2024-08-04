@@ -27,19 +27,19 @@
 > - Unreal Engine 5.2
 > - 2023.01.23 ~ 2023.12.26
 
-> #### 너와 나의 차가리 해피니스
-> [![youmechagari](youmechagari_logo.png)](https://www.youtube.com/watch?v=PZXerf-v5AU)
-> - 비주얼 노벨
-> - 개발 참여 (미니게임 개발, 시스템 개발, 시나리오 리팩토링, 시나리오 폴리싱)
-> -  Unity 2022.3.4f1
-> - 2023.10.19 ~ 2024.05.13
-
 > #### 오직 IQ 510 이상의 사람만이 이 전메를 찾을 수 있습니다
 > [![onlyiq510](onlyiq510_logo.png)](https://www.youtube.com/watch?v=5X6NntRCq8E&t=11976s)
 > - 캐주얼, 숨은그림찾기
 > - 1인 개발자
 > - Unity 2022.3.17f1
 > - 2024.03.20 ~ 2024.05.10
+
+> #### 너와 나의 차가리 해피니스
+> [![youmechagari](youmechagari_logo.png)](https://www.youtube.com/watch?v=PZXerf-v5AU)
+> - 비주얼 노벨
+> - 개발 참여 (미니게임 개발, 시스템 개발, 시나리오 리팩토링, 시나리오 폴리싱)
+> -  Unity 2022.3.4f1
+> - 2023.10.19 ~ 2024.05.13
 
 > #### I+DOL인 나보다 귀여운 사장님을 용서할 수 없어 최강이 되려고 합니다
 > ![ikawa](ikawa_logo.png)
