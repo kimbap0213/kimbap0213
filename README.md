@@ -20,6 +20,13 @@
 <br/>
 
 ## 💻 Project
+> #### 박취더락 뽑기
+> [![pick](battherockpick_logo.png)]([https://www.youtube.com/watch?v=IGuyDqfc1vo](https://www.youtube.com/watch?v=etGmx355mdk))
+> - 캐주얼, 유틸리티
+> - 1인 개발자
+> - Unity 2022.3.4f1
+> - 2023.09.13 ~ 2023.12.14
+
 > #### 현실에서는 평범한 스트리머인 내가 이세계에서는 레벨업하는 인천의 수호자라니, 무리무리! (※무리가 아니었다?!)
 > [![muri](murimuri_logo.png)](https://www.youtube.com/watch?v=IGuyDqfc1vo)
 > - 3D 디펜스, FPS
