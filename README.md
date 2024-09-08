@@ -21,7 +21,7 @@
 
 ## 💻 Project
 > #### 박취더락 뽑기
-> [![pick](battherockpick_logo.png)]([https://www.youtube.com/watch?v=IGuyDqfc1vo](https://www.youtube.com/watch?v=etGmx355mdk))
+> [![pick](battherockpick_logo.png)](https://www.youtube.com/watch?v=etGmx355mdk)
 > - 캐주얼, 유틸리티
 > - 1인 개발자
 > - Unity 2022.3.4f1
