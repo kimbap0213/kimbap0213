@@ -50,7 +50,6 @@
 
 > #### I+DOL인 나보다 귀여운 사장님을 용서할 수 없어 최강이 되려고 합니다
 > [![ikawa](ikawa_logo.png)](https://cafe.naver.com/steamindiegame/17693427)
-> 추가 예정
 > - 플랫포머 (항아리류)
 > - 개발 참여 (물리 관련 개발, 맵 에디터 개발)
 > - Unity 2022.3.17f1
