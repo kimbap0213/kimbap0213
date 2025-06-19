@@ -56,7 +56,7 @@
 > - 2024.02.07 ~ 2024.07.28
 
 > #### 반전 : 또 다른 세계
-> ![reverse](reverse_logo.png)
+> [![reverse](reverse_logo.png)](https://youtu.be/9hG8HD2FOZI)
 > 추가 예정
 > - 2D FPS
 > - 개발 참여
